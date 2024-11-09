@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class OrderEvent {
     private String message;
     private String status;
-    private order order;
+    private Order order;
 }

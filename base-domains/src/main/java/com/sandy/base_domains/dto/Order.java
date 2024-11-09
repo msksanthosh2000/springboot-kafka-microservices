@@ -5,7 +5,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class order {
+public class Order {
     private String orderId;
     private String name;
     private int qty;
